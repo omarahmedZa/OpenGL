@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/omar/me/OpenGL Projects/project_zed/build",
+  "command": "/usr/bin/c++ -g -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/ProjectZed.dir/src/main.cpp.o -c \"/home/omar/me/OpenGL Projects/project_zed/src/main.cpp\"",
+  "file": "/home/omar/me/OpenGL Projects/project_zed/src/main.cpp"
+},
+{
+  "directory": "/home/omar/me/OpenGL Projects/project_zed/build",
+  "command": "/usr/bin/c++ -g -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/ProjectZed.dir/src/Renderer.cpp.o -c \"/home/omar/me/OpenGL Projects/project_zed/src/Renderer.cpp\"",
+  "file": "/home/omar/me/OpenGL Projects/project_zed/src/Renderer.cpp"
+},
+{
+  "directory": "/home/omar/me/OpenGL Projects/project_zed/build",
+  "command": "/usr/bin/c++ -g -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/ProjectZed.dir/src/VertexBuffer.cpp.o -c \"/home/omar/me/OpenGL Projects/project_zed/src/VertexBuffer.cpp\"",
+  "file": "/home/omar/me/OpenGL Projects/project_zed/src/VertexBuffer.cpp"
+},
+{
+  "directory": "/home/omar/me/OpenGL Projects/project_zed/build",
+  "command": "/usr/bin/c++ -g -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/ProjectZed.dir/src/IndexBuffer.cpp.o -c \"/home/omar/me/OpenGL Projects/project_zed/src/IndexBuffer.cpp\"",
+  "file": "/home/omar/me/OpenGL Projects/project_zed/src/IndexBuffer.cpp"
+}
+]

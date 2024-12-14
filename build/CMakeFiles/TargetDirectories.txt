@@ -1,0 +1,3 @@
+/home/omar/me/OpenGL Projects/project_zed/build/CMakeFiles/ProjectZed.dir
+/home/omar/me/OpenGL Projects/project_zed/build/CMakeFiles/edit_cache.dir
+/home/omar/me/OpenGL Projects/project_zed/build/CMakeFiles/rebuild_cache.dir
