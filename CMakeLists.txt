@@ -19,5 +19,5 @@ project(ProjectZed)
 find_package(OpenGL REQUIRED)
 find_package(GLEW REQUIRED)
 
-add_executable(ProjectZed src/main.cpp src/Renderer.cpp src/VertexBuffer.cpp src/IndexBuffer.cpp src/VertexArray.cpp src/VertexBufferLayout.cpp src/Shader.cpp)
+add_executable(ProjectZed src/main.cpp src/Renderer.cpp src/VertexBuffer.cpp src/IndexBuffer.cpp src/VertexArray.cpp src/VertexBufferLayout.cpp src/Shader.cpp src/vendor/stb_image/stb_image.cpp src/Texture.cpp)
 target_link_libraries(ProjectZed OpenGL::GL glfw GLEW::GLEW)
